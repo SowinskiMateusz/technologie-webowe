@@ -22,6 +22,7 @@
 
 	1. Oddać projekt w wyznaczonym terminie
 	2. Uczęszczać na zajęcia laboratoryjne. Można mieć jedną nieobecność
+	3. Wcześniejsze zaliczenie przedmiotu poprzez oddanie projektu zwalnia z uczestnictwa w zajęciach. (zaliczenie przedmiotu odbywa się zgodnie z powyższymi wytycznymi i jest potwierdzone mailowo przez prowadzącego.)
 
 
 **5. Termin oddania 11 czerwca 2023 do godziny 23:59**
